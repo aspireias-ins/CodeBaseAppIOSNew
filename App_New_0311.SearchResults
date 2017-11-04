@@ -1,0 +1,7 @@
+---- aspireiasolt Matches (2 in 2 files) ----
+Config.json (www):    "app_id" : "com.aspire.aspireiasolt",
+Config.xml:<widget xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" id="com.aspire.aspireiasolt" version="3.00.00">
+---- aspireiasolt Search Errors Encountered (2) ----
+The following 2 files could not be processed:
+Z:\home\aspire\AspireIAS\New_app\App!\App_New_0311.IAB : File could not be opened.
+Z:\home\aspire\AspireIAS\New_app\App!\App_New_0311.IMB : File could not be opened.
